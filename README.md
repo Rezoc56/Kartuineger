@@ -1,2 +1,2 @@
 # Kartuineger
-Simple TCP python messenger
+Простой терминальный TCP мессенджер на python.
